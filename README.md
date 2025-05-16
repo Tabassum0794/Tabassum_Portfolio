@@ -7,7 +7,7 @@ Information Technology
 Lemgo, North Rhine-Westphalia
 ### BSC
 ### **American International University-Bangladesh**
-Computer Science
+Computer Science,
 Bangladesh
 ## Project 1
   Machine learning 
