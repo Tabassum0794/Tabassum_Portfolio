@@ -2,11 +2,11 @@
 ### Data scientist
 ## Educational Background
 ### MSC
-**The Technische Hochschule Ostwestfalen-Lippe**
+## **The Technische Hochschule Ostwestfalen-Lippe**
 Information Technology
 Lemgo, North Rhine-Westphalia
 ### BSC
-**American International University-Bangladesh**
+## **American International University-Bangladesh**
 Computer Science
 Bangladesh
 ## Project 1
