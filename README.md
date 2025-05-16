@@ -1,5 +1,9 @@
 # Tabassum_Portfolio
-## Data scientist
-# Project 1
+### Data scientist
+## Educational Background
+### MSC
+### BSC
+## Project 1
 Machine learning 
-# Project 2
+## Project 2
+NLP & LLM
