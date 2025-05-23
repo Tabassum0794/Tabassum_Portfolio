@@ -9,7 +9,7 @@ Lemgo, North Rhine-Westphalia
 ### **American International University-Bangladesh**
 Computer Science,
 Bangladesh
-## Project 1[Project 1 Categorizing Unlabeled Data](https://www.example.com)
+## [Project 1 Categorizing Unlabeled Data](CategorizingData)
   Machine learning
 ## Project 2
 ## Project 3
