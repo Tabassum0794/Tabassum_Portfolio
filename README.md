@@ -10,7 +10,11 @@ Lemgo, North Rhine-Westphalia
 Computer Science,
 Bangladesh
 ## [Project 1 Categorizing Unlabeled Data](https://github.com/Tabassum0794/Machine-Learning/tree/main/CategorizingData)
-  Machine learning
+  Machine learning Algorithm-KNN,Kmeans
+  Python
+  
 ## [Project 2 Diabetes prediction](https://github.com/Tabassum0794/Machine-Learning/tree/main/Diabetes%20Prediction)
-
+K-nearest neighbors(kNN algorithm)
+Support vector machine (SVM)
+MATLAB
 ## Project 3
