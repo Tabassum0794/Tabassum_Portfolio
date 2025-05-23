@@ -1,4 +1,4 @@
-# Tabassum_Portfolio
+# Tabassum Nawar
 ### Data scientist
 ## Educational Background
 ### MSC
@@ -9,7 +9,7 @@ Lemgo, North Rhine-Westphalia
 ### **American International University-Bangladesh**
 Computer Science,
 Bangladesh
-## Project 1
-  Machine learning 
+## Project 1[Project 1 Categorizing Unlabeled Data](https://www.example.com)
+  Machine learning
 ## Project 2
-  NLP & LLM
+## Project 3
