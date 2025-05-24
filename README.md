@@ -14,7 +14,8 @@ Bangladesh
   Python
   
 ## [Project 2 Diabetes prediction](https://github.com/Tabassum0794/Machine-Learning/tree/main/Diabetes%20Prediction)
-K-nearest neighbors(kNN algorithm)
-Support vector machine (SVM)
-MATLAB
+	1. Three models is trained using supervised machine learning algorithms
+  2. K-nearest neighbors(kNN algorithm), Support vector machine (SVM), ensemble learning algorithm
+  3. Evaluation is performed based on time complexity and accuracy rate
+  4. MATLAB is used for training the classifier
 ## Project 3
