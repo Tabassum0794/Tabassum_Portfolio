@@ -1,14 +1,14 @@
 # Tabassum Nawar
-### Data scientist
+#### Data scientist
 ## Educational Background
 ### MSC
-### **The Technische Hochschule Ostwestfalen-Lippe**
-**Information Technology**
-Lemgo, North Rhine-Westphalia
+##### The Technische Hochschule Ostwestfalen-Lippe
+##### Information Technology
+###### Lemgo, North Rhine-Westphalia
 ### BSC
-### **American International University-Bangladesh**
-Computer Science,
-Bangladesh
+##### American International University-Bangladesh
+##### Computer Science
+###### Bangladesh
 ## [Project 1: Categorizing Unlabeled Data](https://github.com/Tabassum0794/Machine-Learning/tree/main/CategorizingData)
   1. Machine learning Algorithm: Agglomerative clustering, K-means, k-nearest neighbors(KNN)
   2. Unsupervised machine learning algorithm is used to label and classify the unlabeled data into classes
