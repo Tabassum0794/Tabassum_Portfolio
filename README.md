@@ -3,7 +3,7 @@
 ## Educational Background
 ### MSC
 ### **The Technische Hochschule Ostwestfalen-Lippe**
-Information Technology
+**Information Technology**
 Lemgo, North Rhine-Westphalia
 ### BSC
 ### **American International University-Bangladesh**
